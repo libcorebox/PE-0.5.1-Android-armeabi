@@ -36,7 +36,7 @@ jobs:
           haxelib install lime 7.9.0 --quiet
           haxelib install lime-samples 6.2.0 --quiet
           haxelib install layout 1.2.1 --quiet
-          haxelib install openfl-samples 8.7.0 --quiet
+          haxelib install openfl-samples 7.1.2 --quiet
           haxelib install flixel-demos 2.7.3 --quiet
           haxelib install flixel-addons 2.10.0 --quiet
           haxelib install flixel-templates 2.6.5 --quiet
@@ -102,7 +102,7 @@ jobs:
           haxelib install lime 7.9.0 --quiet
           haxelib install lime-samples 6.2.0 --quiet
           haxelib install layout 1.2.1 --quiet
-          haxelib install openfl-samples 8.7.0 --quiet
+          haxelib install openfl-samples 7.1.2 --quiet
           haxelib install flixel-demos 2.7.3 --quiet
           haxelib install flixel-addons 2.10.0 --quiet
           haxelib install flixel-templates 2.6.5 --quiet
